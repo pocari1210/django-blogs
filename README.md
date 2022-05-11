@@ -21,5 +21,9 @@ python(Django)<br>
  忘れずに記述をしていきたいとおもいます。<br>
  
  <h2>◆サイトのイメージ◆</h2>
+ 
+ ★トップページ★
+<img src="https://user-images.githubusercontent.com/98627989/167838125-b7603b2c-82ee-4073-b931-effcf819010d.png" width=300 height= 200>
+
   
   
