@@ -25,8 +25,7 @@ python(Django)<br>
 <h3>★トップページ★</h3><br>
 <img src="https://user-images.githubusercontent.com/98627989/167838125-b7603b2c-82ee-4073-b931-effcf819010d.png" width=300 height= 200>
 
-<h3>★記事の詳細ページ★</h3><br>
-左がログイン中画面、右がログアウト中画面
+<h3>★記事の詳細ページ★</h3>
 <br>
 <br>
 <p>
