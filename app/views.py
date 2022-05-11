@@ -19,7 +19,7 @@ class IndexView(View):
             'post_data':post_data,
         })
 
-class PostDetailView(LoginRequiredMixin,View):
+class PostDetailView(View):
     def get(self,request,*args,**kwargs):
 
         # IDでモデルデータのフィルターをかけて、データを取得する
