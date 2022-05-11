@@ -48,7 +48,12 @@ python(Django)<br>
 <img src="https://user-images.githubusercontent.com/98627989/167844563-4d09a629-ff13-4535-985b-5ffe7de35bcc.png" width=300 height= 200>
 </p>
 
-
+<h3>★サインアップページ★</h3>
+<br>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/98627989/167844973-01c3f121-3cfa-4504-b3f2-531c741b6cc2.png" width=300 height= 200>
+</p>
 
 
 
