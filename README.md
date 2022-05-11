@@ -14,3 +14,10 @@ HTML・CSS(Bootstrap)<br>
 python(Django)<br>
 
 <h2>◆難しかった点◆<h2>
+  ・widget_tweaksをテンプレートに記述を忘れ、詰まってしまいました。<br>
+  ・staticの記述を忘れ、CSSが読み込めないことがありました。<br><br>
+  
+  上記の通り、templatesでつまることがあったので、<br>
+  忘れずに記述をしていきたいとおもいます。<br>
+  
+  
