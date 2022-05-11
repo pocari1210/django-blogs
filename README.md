@@ -41,6 +41,16 @@ python(Django)<br>
 <img src="https://user-images.githubusercontent.com/98627989/167844151-248f17c8-390f-4204-99c0-957cab139308.png" width=300 height= 200>
 </p>
 
+<h3>★ログアウトページ★</h3>
+<br>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/98627989/167844563-4d09a629-ff13-4535-985b-5ffe7de35bcc.png" width=300 height= 200>
+</p>
+
+
+
+
 
 
 
