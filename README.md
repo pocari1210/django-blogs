@@ -34,6 +34,14 @@ python(Django)<br>
 </p>
 
 <h3>★記事の削除ページ★</h3><br>
+削除ボタンを押したらトップページにリダイレクトされる
+<br>
+<br>
+<p>
+<img src="https://user-images.githubusercontent.com/98627989/167844151-248f17c8-390f-4204-99c0-957cab139308.png" width=300 height= 200>
+</p>
+
+
 
 
   
